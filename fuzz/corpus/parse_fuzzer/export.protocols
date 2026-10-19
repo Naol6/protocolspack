@@ -1,0 +1,3 @@
+# database
+export DATABASE_URL="postgres://localhost"
+POOL_SIZE=10
